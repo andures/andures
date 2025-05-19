@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 About Me<br>Hi! I'm Andrés Carías, a final-year Computer Science student and full stack web developer. I build modern, scalable apps using Django, the MERN stack, and modern tools like Vite and Bun.<br><br>🚀 Currently learning:<br><br>Angular para desarrollo frontend estructurado con TypeScript<br><br>Astro para sitios web estáticos ultra rápidos<br><br>🎯 Goal: To build scalable, well-structured and optimized web solutions, while constantly learning new technologies that improve my workflow and user experience.
+🧑‍💻 About Me<br>Hi! I'm Andrés Carías, a final-year Computer Science student and full stack web developer. I build modern, scalable apps using Django, the MERN stack, and modern tools like Vite and Bun.<br><br>🚀 Currently learning:<br><br>Angular <br><br>Astro <br><br>🎯 Goal: To build scalable, well-structured and optimized web solutions, while constantly learning new technologies that improve my workflow and user experience.
 
 
 ## 🌐 Socials:
